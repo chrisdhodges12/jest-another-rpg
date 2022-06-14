@@ -1,0 +1,25 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "A command-line rpg game",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisdhodges12/jest-another-rpg.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Chris Hodges",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisdhodges12/jest-another-rpg/issues"
+  },
+  "homepage": "https://github.com/chrisdhodges12/jest-another-rpg#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
